@@ -1,0 +1,3 @@
+/api/*  https://secureapi.sensiq.ae/:splat  200
+/*    /index.html   200
+
